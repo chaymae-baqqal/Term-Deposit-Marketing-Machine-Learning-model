@@ -1,7 +1,7 @@
 # Term Deposit Marketing Machine Learning model
 This is a repository for Term Deposit Marketing machine learning model. Its goal is to improve the success rate for calls made to customers for any product.
 ## Requirements
-Because this project uses some libraries that need a special environment, it would be better to create a virtual environment. Assuming that you have Anaconda installed. 
+Because this project uses some libraries that need special versions of python as for other modules, it would be better to create a virtual environment. Assuming that you have Anaconda installed. 
 To do this:
 * Open Anaconda Prompt from the desktop.
 * Create a Virtual environment with the following command:    
