@@ -7,7 +7,7 @@ Therefore, the used data comes from a campaign that involves making a phone call
 The notebook demonstrates how did I use Machine Learning as well as Exploratory Data Analysis techniques to help the company much classify its customers, and then make pertinent decisions.    
 > For more details, see the notebook: **Term_Deposit_Marketing-virtualenv.ipynb**    
 > The following image represents the last missed plot in the notebook:
-![Screenshot](Clustering_plot.png)
+![Screenshot](Clustering_plot.PNG)
 ## Requirements
 Because this project uses some libraries that need special versions of python as for other modules, it would be better to create a virtual environment. Assuming that you have Anaconda installed. 
 To do this:
