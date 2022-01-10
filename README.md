@@ -5,9 +5,9 @@ The main objective of this project is to develop a robust machine learning syste
 The model aims then to offer high success outcomes and interpretability for clients to make an informed decision.
 Therefore, the used data comes from a campaign that involves making a phone call to a customer, often multiple times to ensure a term deposit subscription. Term deposits are usually short-term deposits with maturities ranging from one month to a few years. The customer must understand when buying a term deposit that they can withdraw their funds, only after the term ends.
 The notebook demonstrates how did I use Machine Learning as well as Exploratory Data Analysis techniques to help the company much classify its customers, and then make pertinent decisions.    
-> For more details, see the notebook: **Term_Deposit_Marketing-virtualenv.ipynb**
+> For more details, see the notebook: **Term_Deposit_Marketing-virtualenv.ipynb**    
 > The following image represents the last missed plot in the notebook:
-![Screenshot](Clustering Plot.png)
+![Screenshot](Clustering_plot.png)
 ## Requirements
 Because this project uses some libraries that need special versions of python as for other modules, it would be better to create a virtual environment. Assuming that you have Anaconda installed. 
 To do this:
