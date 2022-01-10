@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+sklearn
+sweetviz
+matplotlib
+scipy
+imblearn
+plotly
+pycaret
+warnings
