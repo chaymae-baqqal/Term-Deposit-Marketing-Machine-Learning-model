@@ -4,9 +4,12 @@ This is a repository for Term Deposit Marketing machine learning model. Its goal
 Because this project uses some libraries that need a special environment, it would be better to create a virtual environment. Assuming that you have Anaconda installed. 
 To do this:
 * Open Anaconda Prompt from the desktop
-* Create a Virtual environment with the following command: ####**conda create -n yourenvname python=3.6** 
-* Activate your env: **conda activate yourenvname**
-* Luch Jupyter notebook with the command: **jupyter notebook**
+* Create a Virtual environment with the following command:    
+#### **conda create -n yourenvname python=3.6** 
+* Activate your env: 
+#### **conda activate yourenvname**
+* Luch Jupyter notebook with the command:
+#### **jupyter notebook**
 * Open a new jupyter notebook.
 * Install required packages with the following command:      
-     **pip install -r requirements.txt**
+#### **pip install -r requirements.txt**
