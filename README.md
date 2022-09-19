@@ -1,5 +1,5 @@
 # Term Deposit Marketing model
-This is a repository for Term Deposit Marketing machine learning model. Its goal is to improve the success rate for calls made to customers for any product.
+This is a repository for a machine learning model that leverages information coming from call center data to predict if a customer will subscribe or not for a product. Its goal is improve the success rate for calls made to customers for any offered product, and help clients to make informed decisions.
 ## Description
 The main objective of this project is to develop a robust machine learning system that leverages information coming from call center data. The goal of the model is to improve the success rate for calls made to customers for any product that the clients offer.
 The model aims then to offer high success outcomes and interpretability for clients to make an informed decision.
